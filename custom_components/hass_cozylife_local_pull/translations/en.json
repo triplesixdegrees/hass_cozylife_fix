@@ -1,0 +1,15 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "CozyLife Local Setup",
+        "description": "Configure your local CozyLife integration.",
+        "data": {
+          "lang": "Language",
+          "ip": "Device IPs / Subnets (comma separated, e.g. 192.168.1.99, 192.168.2.0/24)",
+          "scan_interval": "Scan Interval (seconds)"
+        }
+      }
+    }
+  }
+}
